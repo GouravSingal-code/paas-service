@@ -11,6 +11,7 @@
 SentinelDB is an open-source PaaS layer that turns your AWS account into a fully managed PostgreSQL database service. It handles the hard parts — primary/replica replication, connection pooling, point-in-time recovery, and intelligent read/write routing — so your application connects to a single endpoint and everything just works.
 
 Built on top of [Omnistrate](https://omnistrate.com) for orchestration, SentinelDB provisions EC2 nodes, EBS volumes, and a load balancer automatically. No manual infrastructure wiring required.
+
 ---
 
 ## What This Project Does
